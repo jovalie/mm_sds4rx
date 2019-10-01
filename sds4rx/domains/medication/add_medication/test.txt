@@ -1,0 +1,10 @@
+i take {acetaminophen aspirin caffeine salicylamide|ingredient} {110 mg|sys_volume|dosage} {before bed on fridays|frequency} for {fever|condition}
+there's {800 mg|sys_volume|dosage} {generic|brand} {gabapentin|ingredient} and i take it {before every meal|frequency}
+{0.0025 mg|sys_volume|dosage} of {femhrt|brand} {i try in the morning|frequency}
+they gave me {sudafed pe sinus headache|brand} for my {fever|condition}
+for {type two diabetes|condition} i take {glucovance|brand} {2.5 mg|sys_volume|dosage} {when i need to|frequency} and also there's {2.5 mg|sys_volume|dosage} {amlodipine atorvastatin|ingredient} {don't need to take it very often|frequency} also i take {160 mg|sys_volume|dosage} of {tylenol|brand} {every evening at 10pm|frequency} for {fever|condition}
+there's {generic|brand} {warfarin sodium|ingredient} and i take it {when my back hurts|frequency}
+{5 mg|sys_volume|dosage} of {ibudone|brand} {the night|frequency}
+i take {generic|brand} {metformin hydrochloride|ingredient} {850 mg|sys_volume|dosage} {as needed|frequency} for {diabetes|condition}
+{in the afternoons|frequency} i take {generic|brand} {fluticasone propionate|ingredient} {0.05 mg/actuat|sys_volume|dosage} {allergies|condition}
+{in the mornings every day|frequency} i take {81 mg|sys_volume|dosage} of {aspirin|ingredient}

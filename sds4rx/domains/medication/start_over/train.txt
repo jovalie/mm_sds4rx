@@ -1,0 +1,472 @@
+wait hold on
+that's not what i wanted
+I'd like to change my medication to something different.
+This is wrong; start over
+actually scratch that
+empty record
+medication cancel
+that's incorrect, start over please
+start over
+cancel entire medication
+Remove medication
+i'll pass
+nah ignore
+no, that medication is wrong.
+clear the medication
+startover
+nah actually
+cancel to that
+Change medication
+cancel the medication
+Let's try again
+please cancel
+Let's start again
+scratch that
+please cancel the medication.
+the medication is wrong.
+clear the cart
+i meant a different meal
+wait it's wrong
+empty the record
+Can we start over
+wait that's not finished
+that is incorrect.
+that's not my medication.
+that's okay i'll pass
+I want something else
+restart medication
+no, wrong!
+not right
+nah forget it
+not even close.
+clear the record
+lets try that medication again.
+you misheard me
+undo medication
+let's start over
+reset and start again
+delete medication
+not correct.
+new record
+not even close.
+please no
+clear cart
+no thank you
+cancel that medication and start again
+back to medication
+stop
+no i don't
+Never mind; restart
+thanks but nope
+that's not right.
+please start over.
+actually not that
+that's not what i medicationed.
+redo it
+start new
+delete the medication
+let's try again
+clear the cart
+oh dear let's start over
+reset it
+reset
+start again.
+cancel all the medication
+delete medication
+empty the cart
+thank you but no
+restart the medication
+try a redo
+start again.
+redo it
+nope reset
+reset the system
+nope, I'm good
+nope reset
+clear cart
+i don't
+clear my cart
+reset and start again
+not right
+i meant something different
+no
+nvm that
+nevermind
+empty the cart
+start over
+start new medication
+I changed my mind
+that is incorrect.
+wait that's incomplete
+no not correct.
+no actually
+undo medication
+erase everything I said and start my medication again
+Empty my cart.
+try a redo
+actually no
+stop medication
+reset
+actually nah
+new record
+i think i would like to start over.
+reset the system
+cancel and start over
+revert medication
+i'm sorry, please cancel that medication.
+nah that's fine
+Show me something different
+nah
+empty cart
+ah start over
+restart medication
+No it is not right
+delete my medication
+that's wrong.
+you misheard me
+how about no
+change the medication
+i want to start again from the beginning
+restart this medication
+scratch that actually
+wait that's incorrect
+do you have something different
+no but thanks
+actually let's not
+delete my medication
+start new
+nah, that'll be fine
+that is completely wrong.
+i'm good thank you
+start over
+cancel medication
+no, cancel that, please.
+I need to change my medication.
+thank you but no
+not at all. reset
+start over
+omg reset
+i'm good
+new search
+Display something else
+no, that medication is wrong.
+restart the medication
+no thank you
+please cancel that medication.
+nah forget it
+cancel this medication
+delete the last item
+redo it
+back to start
+nah, I'm good
+no please
+redo
+no thanks
+redo
+no please
+nvm
+omg reset
+cancel everything
+hard pass
+back to the beginning
+cancel the medication
+starting over
+the medication is wrong.
+clear medication
+it's wrong
+not correct.
+no, that is wrong.
+starting over
+i think you misheard me.
+please cancel that.
+wrong, let's try that medication again
+canceled and take new medication
+empty record
+Cancel that last medication.
+nvm
+no i don't want that
+wait, that's not right
+start new
+Incorrect medication
+no thanks
+Cancel medication
+new cart
+wait, that's not right
+that's not what i said.
+wrong, let's try that medication again
+no
+my medication's wrong, delete and restart medication
+let's reset
+cancel the last item
+actually scratch that
+how about no
+incorrect
+actually no
+That isn't what I wanted
+never mind
+clear my cart
+Show something different
+let's redo
+go back to medication again
+go back to medication
+no, that is incorrect.
+no
+scratch that
+nah actually
+start the medication over
+reset and start again
+that is completely wrong.
+Please start over
+try again
+no, you heard the wrong medication.
+i didn't say that
+that's not what i said.
+omg reset
+cancel this medication
+Strike this medication
+no, wrong!
+restart the cart
+no actually
+please resend
+empty my cart
+clear my medication
+let's reset
+Sorry, start again
+reject that
+delete the medication
+Deleted my entire medication.
+that's not my medication.
+Let's start again.
+new medication
+scratch that
+i don't want any
+that's not what i medicationed.
+clear the medication
+that's not right.
+empty the medication
+Restart medication
+i want something different
+no, you heard the wrong medication.
+that's not what i medicationed.
+Cancel that
+empty the cart
+please start over.
+Give me something else
+redo
+Change that medication please.
+clear my record
+that's not correct.
+redo the medication
+start the medication again
+no i don't
+Let's re-start this medication.
+Start over
+restart this medication
+please cancel that.
+empty the cart
+incorrect, lets try that medication again.
+delete everything I said
+Let's try something else
+clear
+let's go back to the beginning
+empty my record
+Can I start my medication over?
+empty the record
+Wait, medication's wrong, go back.
+Cancel my medication.
+start over
+Cancel and restart
+i meant a different sandwich
+not today
+go back to medication
+clear my cart
+cancel
+never mind
+That's not correct, let's redo.
+i'm good thank you
+back to the beginning
+I need to change that.
+nah
+i'll pass
+thanks but nope
+i did not medication that.
+restart
+delete medications
+start a new search
+start again
+redo the medication
+no, that is wrong.
+start new medication
+Cancel my medication please
+delete medications
+this is not right, restart the medication.
+clear all
+restart
+clear my record
+reset the system
+clear all
+Delete medication
+please start over.
+you misheard me
+I changed my mind about that medication.
+cancel and start over
+not correct
+no i do not
+that's not what i said.
+start again.
+no, you heard the wrong medication.
+clear my record
+My medication isn't right.
+reset
+i'll pass
+i meant a different med
+cancel and start over
+clear cart
+nope, I'm good
+no, cancel that, please.
+Let's start over
+i'm sorry, please cancel that medication.
+nah that's fine
+clear the record
+go back to the beginning
+that's wrong.
+nope reset
+revert medication
+try again
+Redo medication
+let's start this thing over
+go back to medication again
+reset it
+I want to look for something else
+clear
+nvm that
+Start medication over
+Wrong, let's try again.
+cancel medication
+Restart my medication.
+that's incorrect
+i'd like to cancel
+the medication is wrong.
+please reject that
+startover
+i don't
+scratch that. reset
+I don't want that; start the medication over
+empty record
+thanks, but i'm okay
+not correct.
+actually scratch that
+nope
+nope
+start over
+re-medication
+restart this medication
+i want to cancel that.
+no, I'm good
+back to medication
+stop medication
+please scratch that
+i'm good
+i think you misheard me.
+I want to change my medication. Go back to the start.
+I made a mistake.
+cancel the medication
+no, incorrect!
+clear record
+nah ignore
+cancel entire medication
+i'd like to cancel
+clear the cart
+that's not correct.
+nevermind, cancel my medication
+I don't want it anymore
+this is not right, restart the medication.
+please cancel that medication.
+Something else
+stop
+clear
+that is incorrect.
+new cart
+this is incorrect
+restart
+no, that is wrong.
+delete the medication
+the medication is incorrect.
+clear
+thanks but no
+let's reset
+reset
+cancel my medication
+actually nah
+cancel my medication
+clear
+cancel
+please cancel
+lets try that medication again.
+no, that is incorrect.
+back to start
+wrong, let's try that medication again
+delete medication
+no, that medication is wrong.
+restart
+never mind
+That's not right
+forget it
+That is wrong
+back to the beginning
+that's okay i'll pass
+that is wrong
+display something different
+reset the medication
+nah ignore
+no not correct.
+Can you start my medication over again?
+please cancel that medication.
+scratch that. reset
+not even close.
+begin again
+you misheard what i said.
+empty cart
+empty my record
+i would not like that
+that's not right.
+begin again
+nope that's not correct.
+reset it
+this is wrong
+delete the medication
+empty my record
+begin again
+that is completely wrong.
+scratch that
+Nevermind.
+Can we try again
+Dissolve medication
+empty the record
+I want to start over
+restart the medication
+i can't want anymore
+the medication is incorrect.
+you misheard what i said.
+go back to medication
+clear record
+not today
+empty cart
+new record
+scratch that actually
+go back to the beginning
+that's not correct.
+you misheard what i said.
+that's not my medication.
+no but thanks
+please cancel the medication.
+Try again
+clear medication
+i'll pass
+this is not right, restart the medication.
+no i don't want that
+I need to restart my medication.
+forget about it
+lets try that medication again.
+start over
+scratch that.

@@ -1,0 +1,46 @@
+{freq} i take {name} {dosage}
+{freq} i take {dosage} of {name}
+{freq} i take {name} {dosage} for my {cond}
+{freq} i take {dosage} of {name} for my {cond}
+{freq} i take {name} {dosage} {cond}
+{freq} i take {dosage} of {name} {cond}
+i take {name} {dosage} {freq}
+i take {dosage} of {name} {freq}
+i take {name} {dosage} {freq} for my {cond}
+i take {dosage} of {name} {freq} for my {cond}
+i take {name} {dosage} {freq} for {cond}
+i take {dosage} of {name} {freq} for {cond}
+there's {name} and i take it {freq}
+there's {dosage} {name} and i take it {freq}
+there's {dosage} {name} {freq}
+there's {dosage} {name}
+there's {dosage} of {name} and i take it {freq}
+there's {dosage} of {name} {freq}
+there's {name} {dosage} and i take it {freq}
+there's {name} {dosage} {freq}
+{freq} i will take {name} {dosage} much
+for {cond} i take {name} 
+for {cond} i take {dosage} of {name}
+for {cond} i take {dosage} of {name} {freq}
+for {cond} i take {dosage} {name}
+for {cond} i take {dosage} {name} {freq}
+for {cond} i take {name} {dosage}
+for {cond} i take {name} {dosage} {freq}
+{dosage} of {name} {freq}
+my doctor told me to take {name} {freq}
+{name} {freq}
+{name} {dosage} {freq}
+{dosage} of {name} {freq}
+{dosage} {name} {freq}
+{freq} {dosage} {name}
+{freq} {dosage} of {name}
+{freq} {name} {dosage}
+they gave me {name} for my {cond}
+they gave me {dosage} of {name} for my {cond}
+they gave me {dosage} {name} for my {cond}
+they gave me {name} {dosage} for my {cond}
+i take {name} for my {cond} and i take {dosage} {freq}
+for my {cond} {name} {freq}
+add {name} {dosage} for my {cond} to my record
+add {name} for my {cond} to my record
+add {dosage} of {name} for my {cond} to my record

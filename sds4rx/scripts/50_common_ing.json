@@ -1,0 +1,203 @@
+[
+    {
+        "ingredient": "lisinopril",
+        "condition": ["high blood pressure", "heart failure"
+        ]
+    },
+    {
+        "ingredient": "levothyroxine",
+        "condition": ["hypothyroid", "thyroid cancer"
+        ]
+    },
+    {
+        "ingredient": "atorvastatin",
+        "condition": ["high cholesterol", "triglyceride"
+        ]
+    },
+    {
+        "ingredient": "metformin",
+        "condition": ["diabetes", "diabetes type two", "type two diabetes"
+        ]
+    },
+    {
+        "ingredient": "simvastatin",
+        "condition": ["high cholesterol", "triglyceride"
+        ]
+    },
+    {
+        "ingredient": "omeprazole",
+        "condition": ["gerd", "heartburn", "heartburn", "stomach ulcers"
+        ]
+    },
+    {
+        "ingredient": "hydrochlorothiazide",
+        "condition": ["high blood pressure", "edema", "fluid retention"
+        ]
+    },
+    {
+        "ingredient": "losartan",
+        "condition": ["high blood pressure", "stroke", "kidney disease"
+        ]
+    },
+    {
+        "ingredient": "gabapentin",
+        "condition": ["nerve pain", "seizures"
+        ]
+    },
+    {
+        "ingredient": "sertraline",
+        "condition": ["depression", "ocd", "ptsd", "pmdd", "anxiety", "panic disorder", "social anxiety"
+        ]
+    },
+    {
+        "ingredient": "furosemide",
+        "condition": ["edema", "fluid retention", "heart failure", "liver disease", "kidney disease"
+        ]
+    },
+    {
+        "ingredient": "acetaminophen",
+        "condition": ["pain", "fever"
+        ]
+    },
+    {
+        "ingredient": "citalopram",
+        "condition": ["depression"
+        ]
+    },
+    {
+        "ingredient": "trazodone",
+        "condition": ["sleeping", "depression"
+        ]
+    },
+    {
+        "ingredient": "alprazolam",
+        "condition": ["anxiety", "panic disorder"
+        ]
+    },
+    {
+        "ingredient": "fluticasone",
+        "condition": ["pain", "itching", "swelling", "asthma", "allergies"
+        ]
+    },
+    {
+        "ingredient": "bupropion",
+        "condition": ["depression", "seasonal depression", "seasonal affective disorder", "smoking aid"
+        ]
+    },
+    {
+        "ingredient": "carvedilol",
+        "condition": ["high blood pressure", "heart failure", "heart attack"
+        ]
+    },
+    {
+        "ingredient": "escitalopram",
+        "condition": ["depression", "anxiety"
+        ]
+    },
+    {
+        "ingredient": "prednisone",
+        "condition": ["inflammation", "gout", "arthritis"
+        ]
+    },
+    {
+        "ingredient": "rosuvastatin",
+        "condition": ["high cholesterol"
+        ]
+    },
+    {
+        "ingredient": "ibuprofen",
+        "condition": ["pain", "fever"
+        ]
+    },
+    {
+        "ingredient": "meloxicam",
+        "condition": ["osteoarthritis", "rheumatoid arthritis", "arthritis"
+        ]
+    },
+    {
+        "ingredient": "glipizide",
+        "condition": ["diabetes"
+        ]
+    },
+    {
+        "ingredient": "fluoxetine",
+        "condition": ["depression"
+        ]
+    },
+    {
+        "ingredient": "pantoprazole",
+        "condition": ["gerd"
+        ]
+    },
+    {
+        "ingredient": "montelukast",
+        "condition": ["asthma"
+        ]
+    },
+    {
+        "ingredient": "insulin glargine"
+    },
+    {
+        "ingredient": "warfarin"
+    },
+    {
+        "ingredient": "cyclobenzaprine"
+    },
+    {
+        "ingredient": "insulin human"
+    },
+    {
+        "ingredient": "tamsulosin"
+    },
+    {
+        "ingredient": "metoprolol"
+    },
+    {
+        "ingredient": "hydrocodone"
+    },
+    {
+        "ingredient": "albuterol"
+    },
+    {
+        "ingredient": "atenolol"
+    },
+    {
+        "ingredient": "pravastatin"
+    },
+    {
+        "ingredient": "amoxicillin"
+    },
+    {
+        "ingredient": "potassium chloride"
+    },
+    {
+        "ingredient": "tramadol"
+    },
+    {
+        "ingredient": "clonazepam"
+    },
+    {
+        "ingredient": "aspirin"
+    },
+    {
+        "ingredient": "clopidogrel antiplatelet"
+    },
+    {
+        "ingredient": "tamsulosin"
+    },
+    {
+        "ingredient": "zolpidem"
+    },
+    {
+        "ingredient": "ethinyl estradiol"
+    },
+    {
+        "ingredient": "duloxetine"
+    },
+    {
+        "ingredient": "ranitidine"
+    },
+    {
+        "ingredient": "venlafaxine"
+    }
+]

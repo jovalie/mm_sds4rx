@@ -1,0 +1,8 @@
+/_blueprints*
+/bin*
+/include*
+/lib*
+/log*
+/share*
+/_scratch_folder*
+*.code-workspace
