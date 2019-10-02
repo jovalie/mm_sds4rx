@@ -6,6 +6,7 @@
 /share*
 /_scratch_folder*
 */.vscode*
+__pycache__
 
 *.code-workspace
 *.pyc
