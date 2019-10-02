@@ -1,0 +1,2066 @@
+{
+    "kb_index_name": "medication",
+    "kb_field_name": "dosage",
+    "entities": [
+        {
+            "whitelist": [],
+            "cname": "12.5 MG",
+            "id": "12.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "20 MG",
+            "id": "20 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "10 MG",
+            "id": "10 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5 MG",
+            "id": "5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "25 MG",
+            "id": "25 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1 MG/ML",
+            "id": "1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.5 MG",
+            "id": "2.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "40 MG",
+            "id": "40 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "30 MG",
+            "id": "30 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.112 MG",
+            "id": "0.112 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.137 MG",
+            "id": "0.137 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.075 MG",
+            "id": "0.075 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.7 MG",
+            "id": "0.7 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.6 MG",
+            "id": "0.6 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.1 MG",
+            "id": "0.1 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.8 MG",
+            "id": "0.8 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.025 MG",
+            "id": "0.025 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.3 MG",
+            "id": "0.3 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.088 MG",
+            "id": "0.088 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.175 MG",
+            "id": "0.175 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.5 MG",
+            "id": "0.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.013 MG",
+            "id": "0.013 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00625 MG",
+            "id": "0.00625 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.4 MG",
+            "id": "0.4 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.2 MG",
+            "id": "0.2 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.15 MG",
+            "id": "0.15 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.125 MG",
+            "id": "0.125 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.05 MG",
+            "id": "0.05 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0375 MG",
+            "id": "0.0375 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.137 MG/ML",
+            "id": "0.137 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.013 MG/ML",
+            "id": "0.013 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.088 MG/ML",
+            "id": "0.088 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.075 MG/ML",
+            "id": "0.075 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1 MG",
+            "id": "1 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.125 MG/ML",
+            "id": "0.125 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.1 MG/ML",
+            "id": "0.1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.112 MG/ML",
+            "id": "0.112 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0022 MG/MG",
+            "id": "0.0022 MG/MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.2 MG/ML",
+            "id": "0.2 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.025 MG/ML",
+            "id": "0.025 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.15 MG/ML",
+            "id": "0.15 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.05 MG/ML",
+            "id": "0.05 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.175 MG/ML",
+            "id": "0.175 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0125 MG",
+            "id": "0.0125 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0031 MG",
+            "id": "0.0031 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "80 MG",
+            "id": "80 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1000 MG",
+            "id": "1000 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2 MG",
+            "id": "2 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "850 MG",
+            "id": "850 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "500 MG",
+            "id": "500 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "50 MG",
+            "id": "50 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "100 MG",
+            "id": "100 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "7.5 MG",
+            "id": "7.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "750 MG",
+            "id": "750 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "150 MG",
+            "id": "150 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "4 MG",
+            "id": "4 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "250 MG",
+            "id": "250 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "100 MG/ML",
+            "id": "100 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.25 MG",
+            "id": "1.25 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "15 MG",
+            "id": "15 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "8 MG/ML",
+            "id": "8 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4 MG/ML",
+            "id": "4 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "325 MG",
+            "id": "325 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "375 MG",
+            "id": "375 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.37 MG/MG",
+            "id": "0.37 MG/MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "81 MG",
+            "id": "81 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1680 MG",
+            "id": "1680 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "700 MG",
+            "id": "700 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "600 MG",
+            "id": "600 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1100 MG",
+            "id": "1100 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "320 MG",
+            "id": "320 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "37.5 MG",
+            "id": "37.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "300 MG",
+            "id": "300 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "160 MG",
+            "id": "160 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.25 MG",
+            "id": "6.25 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "75 MG",
+            "id": "75 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "32 MG",
+            "id": "32 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "16 MG",
+            "id": "16 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "800 MG",
+            "id": "800 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "50 MG/ML",
+            "id": "50 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "400 MG",
+            "id": "400 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "20 MG/ML",
+            "id": "20 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "10 MG/ML",
+            "id": "10 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "320.5 MG",
+            "id": "320.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "260 MG",
+            "id": "260 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "520 MG",
+            "id": "520 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "32.5 MG",
+            "id": "32.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "32 MG/ML",
+            "id": "32 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "200 MG",
+            "id": "200 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "33.3 MG/ML",
+            "id": "33.3 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "115 MG",
+            "id": "115 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "210 MG",
+            "id": "210 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "65 MG",
+            "id": "65 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.12 MG",
+            "id": "6.12 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "230 MG",
+            "id": "230 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "33 MG",
+            "id": "33 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "650 MG",
+            "id": "650 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "356.4 MG",
+            "id": "356.4 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "55 MG",
+            "id": "55 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.67 MG/ML",
+            "id": "1.67 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "16.7 MG/ML",
+            "id": "16.7 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "60 MG",
+            "id": "60 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "65 MG/ML",
+            "id": "65 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "21.7 MG/ML",
+            "id": "21.7 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.5 MG/ML",
+            "id": "0.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.67 MG/ML",
+            "id": "0.67 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "194 MG",
+            "id": "194 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "227 MG",
+            "id": "227 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "29 MG",
+            "id": "29 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "110 MG",
+            "id": "110 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "162 MG",
+            "id": "162 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "32.4 MG",
+            "id": "32.4 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "152 MG",
+            "id": "152 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "38 MG",
+            "id": "38 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "32.5 MG/ML",
+            "id": "32.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "163 MG",
+            "id": "163 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2 MG/ML",
+            "id": "2 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "290 MG",
+            "id": "290 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.08 MG/ML",
+            "id": "1.08 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.16 MG",
+            "id": "8.16 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "24 MG/ML",
+            "id": "24 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.4 MG/ML",
+            "id": "2.4 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.5 MG/ML",
+            "id": "2.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.08 MG",
+            "id": "4.08 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.667 MG/ML",
+            "id": "0.667 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.33 MG/ML",
+            "id": "3.33 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.67 MG/ML",
+            "id": "2.67 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "120 MG",
+            "id": "120 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.25 MG",
+            "id": "0.25 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "3 MG",
+            "id": "3 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.1 MG/ACTUAT",
+            "id": "0.1 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.025 MG/ACTUAT",
+            "id": "0.025 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0625 MG/ACTUAT",
+            "id": "0.0625 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.05 MG/ACTUAT",
+            "id": "0.05 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.22 MG/ACTUAT",
+            "id": "0.22 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.044 MG/ACTUAT",
+            "id": "0.044 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.25 MG/ACTUAT",
+            "id": "0.25 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.2 MG/ACTUAT",
+            "id": "0.2 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.093 MG/ACTUAT",
+            "id": "0.093 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0275 MG/ACTUAT",
+            "id": "0.0275 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.055 MG/ACTUAT",
+            "id": "0.055 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.5 MG/ACTUAT",
+            "id": "0.5 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.23 MG/ACTUAT",
+            "id": "0.23 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.021 MG/ACTUAT",
+            "id": "0.021 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.115 MG/ACTUAT",
+            "id": "0.115 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.014 MG/ACTUAT",
+            "id": "0.014 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.113 MG/ACTUAT",
+            "id": "0.113 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00005 MG/MG",
+            "id": "0.00005 MG/MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.137 MG/ACTUAT",
+            "id": "0.137 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.11 MG/ACTUAT",
+            "id": "0.11 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.232 MG/ACTUAT",
+            "id": "0.232 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.045 MG/ACTUAT",
+            "id": "0.045 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "174 MG",
+            "id": "174 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "90 MG",
+            "id": "90 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "8 MG",
+            "id": "8 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "522 MG",
+            "id": "522 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "450 MG",
+            "id": "450 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "348 MG",
+            "id": "348 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.125 MG",
+            "id": "3.125 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "40 MG/ML",
+            "id": "40 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "26.6 MG",
+            "id": "26.6 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5 MG/ML",
+            "id": "5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.5 MG/ML",
+            "id": "1.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "64 MG",
+            "id": "64 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "12 MG",
+            "id": "12 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "6 MG",
+            "id": "6 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "100 UNT/ML",
+            "id": "100 UNT/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.033 MG/ML",
+            "id": "0.033 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "300 UNT/ML",
+            "id": "300 UNT/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "12 UNT",
+            "id": "12 UNT"
+        },
+        {
+            "whitelist": [],
+            "cname": "4 UNT",
+            "id": "4 UNT"
+        },
+        {
+            "whitelist": [],
+            "cname": "8 UNT",
+            "id": "8 UNT"
+        },
+        {
+            "whitelist": [],
+            "cname": "70 UNT/ML",
+            "id": "70 UNT/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "30 UNT/ML",
+            "id": "30 UNT/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1 UNT/ML",
+            "id": "1 UNT/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "500 UNT/ML",
+            "id": "500 UNT/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "60 MG/ML",
+            "id": "60 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.9 MG/ML",
+            "id": "0.9 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.4 MG/ML",
+            "id": "0.4 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.8 MG/ML",
+            "id": "0.8 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "12 MG/ML",
+            "id": "12 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.334 MG/ML",
+            "id": "0.334 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "45 MG/ML",
+            "id": "45 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6 MG/ML",
+            "id": "6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.6 MG/ML",
+            "id": "1.6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.34 MG/ML",
+            "id": "0.34 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "30 MG/ML",
+            "id": "30 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.6 MG/ML",
+            "id": "0.6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "70 MG/ML",
+            "id": "70 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.65 MG/ML",
+            "id": "0.65 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.3 MG/ML",
+            "id": "0.3 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.5 MG",
+            "id": "1.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.7 MG/ML",
+            "id": "0.7 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.21 MG/ML",
+            "id": "0.21 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.09 MG/ACTUAT",
+            "id": "0.09 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.417 MG/ML",
+            "id": "0.417 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.02 MG/ACTUAT",
+            "id": "0.02 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.833 MG/ML",
+            "id": "0.833 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.167 MG/ML",
+            "id": "0.167 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.103 MG/ML",
+            "id": "0.103 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.018 MG/ACTUAT",
+            "id": "0.018 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "80 MG/ML",
+            "id": "80 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "11.4 MG/ML",
+            "id": "11.4 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "62.5 MG",
+            "id": "62.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "875 MG",
+            "id": "875 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "125 MG",
+            "id": "125 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "120 MG/ML",
+            "id": "120 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.58 MG/ML",
+            "id": "8.58 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "12.5 MG/ML",
+            "id": "12.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "25 MG/ML",
+            "id": "25 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.25 MG/ML",
+            "id": "6.25 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "775 MG",
+            "id": "775 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "25 MEQ",
+            "id": "25 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00735 MEQ/ML",
+            "id": "0.00735 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0275 MEQ/ML",
+            "id": "0.0275 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.021 MEQ/ML",
+            "id": "0.021 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.002 MEQ/ML",
+            "id": "0.002 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.22 MG/ML",
+            "id": "4.22 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.32 MG/ML",
+            "id": "4.32 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.98 MG/ML",
+            "id": "2.98 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0025 MEQ/ML",
+            "id": "0.0025 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.015 MEQ/ML",
+            "id": "0.015 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "250 MG/ML",
+            "id": "250 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.14 MG/ML",
+            "id": "3.14 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.12 MG/ML",
+            "id": "2.12 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.28 MG/ML",
+            "id": "1.28 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.8 MG/ML",
+            "id": "2.8 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.25 MG/ML",
+            "id": "4.25 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.46 MG/ML",
+            "id": "4.46 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.73 MG/ML",
+            "id": "0.73 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.26 MG/ML",
+            "id": "1.26 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.003 MEQ/ML",
+            "id": "0.003 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.07 MG/ML",
+            "id": "3.07 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.25 MG/ML",
+            "id": "2.25 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.035 MEQ/ML",
+            "id": "0.035 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.7 MG/ML",
+            "id": "1.7 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.85 MG/ML",
+            "id": "0.85 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.15 MG/ML",
+            "id": "1.15 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00148 MEQ/ML",
+            "id": "0.00148 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.005 MEQ/ML",
+            "id": "0.005 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.027 MEQ/ML",
+            "id": "0.027 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.09 MEQ/ML",
+            "id": "0.09 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.023 MEQ/ML",
+            "id": "0.023 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00497 MEQ/ML",
+            "id": "0.00497 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0899 MEQ/ML",
+            "id": "0.0899 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "5.02 MG/ML",
+            "id": "5.02 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00639 MEQ/ML",
+            "id": "0.00639 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0134 MEQ/ML",
+            "id": "0.0134 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0308 MEQ/ML",
+            "id": "0.0308 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.025 MEQ/ML",
+            "id": "0.025 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.16 MG/ML",
+            "id": "0.16 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.063 MG/ML",
+            "id": "0.063 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.14 MEQ/ML",
+            "id": "0.14 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "236000 MG",
+            "id": "236000 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2970 MG",
+            "id": "2970 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "6740 MG",
+            "id": "6740 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5860 MG",
+            "id": "5860 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "22740 MG",
+            "id": "22740 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "8 MEQ",
+            "id": "8 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.4 MEQ",
+            "id": "0.4 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "7.69 MEQ",
+            "id": "7.69 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "9 MG/ML",
+            "id": "9 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.9 MG/ML",
+            "id": "6.9 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.1 MG/ML",
+            "id": "2.1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "5.1 MG/ML",
+            "id": "5.1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.6 MG/ML",
+            "id": "6.6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.1 MG/ML",
+            "id": "3.1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.065 MEQ/ML",
+            "id": "0.065 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.1 MG/ML",
+            "id": "6.1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3 MG/ML",
+            "id": "3 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00479 MEQ/ML",
+            "id": "0.00479 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0299 MEQ/ML",
+            "id": "0.0299 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.7 MG/ML",
+            "id": "3.7 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.2 MG/ML",
+            "id": "1.2 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.44 MG/ML",
+            "id": "0.44 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "5.6 MG/ML",
+            "id": "5.6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "22 MG/ML",
+            "id": "22 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "43 MG/ML",
+            "id": "43 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "34.5 MG/ML",
+            "id": "34.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "125 MG/ML",
+            "id": "125 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "135 MG/ML",
+            "id": "135 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "55 MG/ML",
+            "id": "55 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "420000 MG",
+            "id": "420000 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1480 MG",
+            "id": "1480 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5720 MG",
+            "id": "5720 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "11200 MG",
+            "id": "11200 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.132 MEQ",
+            "id": "0.132 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.107 MEQ",
+            "id": "0.107 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.537 MEQ",
+            "id": "0.537 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "240000 MG",
+            "id": "240000 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2980 MG",
+            "id": "2980 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "6720 MG",
+            "id": "6720 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5840 MG",
+            "id": "5840 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "22720 MG",
+            "id": "22720 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "20 MEQ",
+            "id": "20 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "210000 MG",
+            "id": "210000 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "740 MG",
+            "id": "740 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2860 MG",
+            "id": "2860 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5600 MG",
+            "id": "5600 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.26 MG/ML",
+            "id": "0.26 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00373 MEQ/ML",
+            "id": "0.00373 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00174 MEQ/ML",
+            "id": "0.00174 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.039 MEQ/ML",
+            "id": "0.039 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0149 MEQ/ML",
+            "id": "0.0149 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.02 MEQ/ML",
+            "id": "0.02 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.07 MG/ML",
+            "id": "2.07 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4700 MG",
+            "id": "4700 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "100000 MG",
+            "id": "100000 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1015 MG",
+            "id": "1015 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5900 MG",
+            "id": "5900 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2690 MG",
+            "id": "2690 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "7500 MG",
+            "id": "7500 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "11 MG/ML",
+            "id": "11 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.5 MG/ML",
+            "id": "8.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.6 MG/ML",
+            "id": "2.6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.2 MG/ML",
+            "id": "6.2 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.1 MG/ML",
+            "id": "8.1 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.24 MG/ML",
+            "id": "6.24 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00502 MEQ/ML",
+            "id": "0.00502 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.4 MG/ML",
+            "id": "3.4 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.8 MG/ML",
+            "id": "3.8 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0654 MEQ/ML",
+            "id": "0.0654 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "7.5 MG/ML",
+            "id": "7.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.6 MG/ML",
+            "id": "4.6 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.8 MG/ML",
+            "id": "6.8 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00361 MEQ/ML",
+            "id": "0.00361 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0189 MEQ/ML",
+            "id": "0.0189 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0232 MEQ/ML",
+            "id": "0.0232 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.25 MG/ML",
+            "id": "0.25 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.006 MEQ/ML",
+            "id": "0.006 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.48 MG/ML",
+            "id": "3.48 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.56 MG/ML",
+            "id": "3.56 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.45 MG/ML",
+            "id": "2.45 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.58 MG/ML",
+            "id": "2.58 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.75 MG/ML",
+            "id": "1.75 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.05 MG/ML",
+            "id": "1.05 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.31 MG/ML",
+            "id": "2.31 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.5 MG/ML",
+            "id": "3.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.68 MG/ML",
+            "id": "3.68 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.04 MG/ML",
+            "id": "1.04 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.013 MEQ/ML",
+            "id": "0.013 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.52 MG/ML",
+            "id": "2.52 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.86 MG/ML",
+            "id": "1.86 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0205 MEQ/ML",
+            "id": "0.0205 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00347 MEQ/ML",
+            "id": "0.00347 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.4 MG/ML",
+            "id": "1.4 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.94 MG/ML",
+            "id": "0.94 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.44 MG/ML",
+            "id": "8.44 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.65 MG/ML",
+            "id": "8.65 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "5.95 MG/ML",
+            "id": "5.95 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.27 MG/ML",
+            "id": "6.27 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.55 MG/ML",
+            "id": "2.55 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "5.61 MG/ML",
+            "id": "5.61 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "8.93 MG/ML",
+            "id": "8.93 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.46 MG/ML",
+            "id": "1.46 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.53 MG/ML",
+            "id": "2.53 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.066 MEQ/ML",
+            "id": "0.066 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "6.14 MG/ML",
+            "id": "6.14 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.5 MG/ML",
+            "id": "4.5 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.01 MEQ/ML",
+            "id": "0.01 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.3 MG/ML",
+            "id": "2.3 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0082 MG/ML",
+            "id": "0.0082 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0272 MEQ/ML",
+            "id": "0.0272 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0906 MEQ/ML",
+            "id": "0.0906 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.12 MG/ML",
+            "id": "0.12 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.9 MG/ML",
+            "id": "2.9 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.2 MG/ML",
+            "id": "4.2 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "2.7 MG/ML",
+            "id": "2.7 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.008 MEQ/ML",
+            "id": "0.008 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.41 MG/ML",
+            "id": "0.41 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.8 MG/ML",
+            "id": "1.8 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.014 MEQ/ML",
+            "id": "0.014 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.46 MG/ML",
+            "id": "0.46 MG/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "15 MEQ",
+            "id": "15 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0497 MEQ/ML",
+            "id": "0.0497 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0163 MEQ/ML",
+            "id": "0.0163 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.004 MEQ/ML",
+            "id": "0.004 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0475 MEQ/ML",
+            "id": "0.0475 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.109 MEQ/ML",
+            "id": "0.109 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.012 MEQ/ML",
+            "id": "0.012 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "10 MEQ",
+            "id": "10 MEQ"
+        },
+        {
+            "whitelist": [],
+            "cname": "227100 MG",
+            "id": "227100 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "2820 MG",
+            "id": "2820 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "6360 MG",
+            "id": "6360 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5530 MG",
+            "id": "5530 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "21500 MG",
+            "id": "21500 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0015 MEQ/ML",
+            "id": "0.0015 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0471 MEQ/ML",
+            "id": "0.0471 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0848 MEQ/ML",
+            "id": "0.0848 MEQ/ML"
+        },
+        {
+            "whitelist": [],
+            "cname": "228 MG",
+            "id": "228 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1916 MG",
+            "id": "1916 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "845 MG",
+            "id": "845 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1985 MG",
+            "id": "1985 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "162.5 MG",
+            "id": "162.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "4.84 MG",
+            "id": "4.84 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "770 MG",
+            "id": "770 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "33.3 MG",
+            "id": "33.3 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "195 MG",
+            "id": "195 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "95 MG",
+            "id": "95 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "777 MG",
+            "id": "777 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1700 MG",
+            "id": "1700 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "38.3 MG",
+            "id": "38.3 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "1.75 MG",
+            "id": "1.75 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "3.5 MG",
+            "id": "3.5 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "5 MG/ACTUAT",
+            "id": "5 MG/ACTUAT"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.0025 MG",
+            "id": "0.0025 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.005 MG",
+            "id": "0.005 MG"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00146 MG/HR",
+            "id": "0.00146 MG/HR"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.00625 MG/HR",
+            "id": "0.00625 MG/HR"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.000625 MG/HR",
+            "id": "0.000625 MG/HR"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.005 MG/HR",
+            "id": "0.005 MG/HR"
+        },
+        {
+            "whitelist": [],
+            "cname": "0.000542 MG/HR",
+            "id": "0.000542 MG/HR"
+        }
+    ]
+}

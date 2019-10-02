@@ -1,0 +1,216 @@
+{
+    "kb_index_name": "medication",
+    "kb_field_name": "condition",
+    "entities": [
+        {
+            "whitelist": [],
+            "cname": "high blood pressure",
+            "id": "high blood pressure"
+        },
+        {
+            "whitelist": [],
+            "cname": "heart failure",
+            "id": "heart failure"
+        },
+        {
+            "whitelist": [],
+            "cname": "hypothyroid",
+            "id": "hypothyroid"
+        },
+        {
+            "whitelist": [],
+            "cname": "thyroid cancer",
+            "id": "thyroid cancer"
+        },
+        {
+            "whitelist": [],
+            "cname": "high cholesterol",
+            "id": "high cholesterol"
+        },
+        {
+            "whitelist": [],
+            "cname": "triglyceride",
+            "id": "triglyceride"
+        },
+        {
+            "whitelist": [],
+            "cname": "diabetes",
+            "id": "diabetes"
+        },
+        {
+            "whitelist": [],
+            "cname": "diabetes type two",
+            "id": "diabetes type two"
+        },
+        {
+            "whitelist": [],
+            "cname": "type two diabetes",
+            "id": "type two diabetes"
+        },
+        {
+            "whitelist": [],
+            "cname": "gerd",
+            "id": "gerd"
+        },
+        {
+            "whitelist": [],
+            "cname": "heartburn",
+            "id": "heartburn"
+        },
+        {
+            "whitelist": [],
+            "cname": "stomach ulcers",
+            "id": "stomach ulcers"
+        },
+        {
+            "whitelist": [],
+            "cname": "edema",
+            "id": "edema"
+        },
+        {
+            "whitelist": [],
+            "cname": "fluid retention",
+            "id": "fluid retention"
+        },
+        {
+            "whitelist": [],
+            "cname": "stroke",
+            "id": "stroke"
+        },
+        {
+            "whitelist": [],
+            "cname": "kidney disease",
+            "id": "kidney disease"
+        },
+        {
+            "whitelist": [],
+            "cname": "nerve pain",
+            "id": "nerve pain"
+        },
+        {
+            "whitelist": [],
+            "cname": "seizures",
+            "id": "seizures"
+        },
+        {
+            "whitelist": [],
+            "cname": "depression",
+            "id": "depression"
+        },
+        {
+            "whitelist": [],
+            "cname": "ocd",
+            "id": "ocd"
+        },
+        {
+            "whitelist": [],
+            "cname": "ptsd",
+            "id": "ptsd"
+        },
+        {
+            "whitelist": [],
+            "cname": "pmdd",
+            "id": "pmdd"
+        },
+        {
+            "whitelist": [],
+            "cname": "anxiety",
+            "id": "anxiety"
+        },
+        {
+            "whitelist": [],
+            "cname": "panic disorder",
+            "id": "panic disorder"
+        },
+        {
+            "whitelist": [],
+            "cname": "social anxiety",
+            "id": "social anxiety"
+        },
+        {
+            "whitelist": [],
+            "cname": "liver disease",
+            "id": "liver disease"
+        },
+        {
+            "whitelist": [],
+            "cname": "pain",
+            "id": "pain"
+        },
+        {
+            "whitelist": [],
+            "cname": "fever",
+            "id": "fever"
+        },
+        {
+            "whitelist": [],
+            "cname": "sleeping",
+            "id": "sleeping"
+        },
+        {
+            "whitelist": [],
+            "cname": "itching",
+            "id": "itching"
+        },
+        {
+            "whitelist": [],
+            "cname": "swelling",
+            "id": "swelling"
+        },
+        {
+            "whitelist": [],
+            "cname": "asthma",
+            "id": "asthma"
+        },
+        {
+            "whitelist": [],
+            "cname": "allergies",
+            "id": "allergies"
+        },
+        {
+            "whitelist": [],
+            "cname": "seasonal depression",
+            "id": "seasonal depression"
+        },
+        {
+            "whitelist": [],
+            "cname": "seasonal affective disorder",
+            "id": "seasonal affective disorder"
+        },
+        {
+            "whitelist": [],
+            "cname": "smoking aid",
+            "id": "smoking aid"
+        },
+        {
+            "whitelist": [],
+            "cname": "heart attack",
+            "id": "heart attack"
+        },
+        {
+            "whitelist": [],
+            "cname": "inflammation",
+            "id": "inflammation"
+        },
+        {
+            "whitelist": [],
+            "cname": "gout",
+            "id": "gout"
+        },
+        {
+            "whitelist": [],
+            "cname": "arthritis",
+            "id": "arthritis"
+        },
+        {
+            "whitelist": [],
+            "cname": "osteoarthritis",
+            "id": "osteoarthritis"
+        },
+        {
+            "whitelist": [],
+            "cname": "rheumatoid arthritis",
+            "id": "rheumatoid arthritis"
+        }
+    ]
+}
