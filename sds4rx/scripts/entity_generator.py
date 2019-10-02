@@ -1,7 +1,7 @@
 import json
 import rxnorm
 
-ENTITY = "ingredient"
+ENTITY = "brand"
 
 RX_KB = "50_common_rx.json"
 ING_JSON = "50_common_ing.json"
@@ -12,33 +12,39 @@ MAPPING_FORMAT = {
     "entities": []
 }
 
-G_FILE = "gazetteer.txt"
-M_FILE = "mapping.json"
+G_FILE = ENTITY+"_gazetteer.txt"
+M_FILE = ENTITY+"_mapping.json"
+
+def _collect_entities(db, key):    
+    cnames = []
+    entities = []
+    for entry in db:
+        e = entry[key]
+        if e not in cnames:
+            print(e)
+            cnames.append(e)
+            entity = {
+                "whitelist": [],
+                "cname": e,
+                "id": rxnorm.string_to_rxcui(e)[0] #FIXME: connection 104 error?
+            }
+            entities.append(entity)
+
+    mapping = MAPPING_FORMAT
+    mapping["entities"] = entities
+
+    with open(G_FILE, 'w+') as f:
+        f.write('\n'.join(cnames))
+ 
+    with open(M_FILE, 'w+') as f:
+        json.dump(mapping, f)
+    
 
 if __name__ == "__main__":
     with open(RX_KB, 'r') as f:
-        rx = json.load(f)
+        rx_kb = json.load(f)
 
     with open(ING_JSON, 'r') as f:
         ing_db = json.load(f)
 
-    with open(G_FILE, 'w+') as f:
-        for entry in ing_db:
-            f.write(entry['ingredient'])
-            f.write('\n')
-    
-    entities = []
-    for entry in ing_db:
-        ing = entry['ingredient']
-        entity = {
-            "whitelist": [],
-            "cname": ing,
-            "id": rxnorm.string_to_rxcui(ing)[0]
-        }
-        entities.append(entity)
-
-    mapping = MAPPING_FORMAT
-    mapping["entities"] = entities
- 
-    with open(M_FILE, 'w+') as f:
-        json.dump(mapping, f)
+    _collect_entities(rx_kb, "brand")
