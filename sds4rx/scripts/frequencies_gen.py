@@ -1,3 +1,9 @@
+'''
+This script generates combinations of phrases to be used for frequency entity mapping files.
+
+Modify global variables N and L to generate combinations of N elements for list L.
+'''
+
 DAYS_OF_WEEK = [
     "Monday",
     "Tuesday",
@@ -15,11 +21,8 @@ HOURS_SPELLED = [
 
 HOURS = [str(x) + ' pm' for x in range(1,13)] + [str(x) + ' am' for x in range(1,13)]
 
-'''
-select N and L as needed
-'''
 N = 2
-l = HOURS
+L = HOURS
 
 def _combo_n(choices, n):
     if choices == [] or n == 0:

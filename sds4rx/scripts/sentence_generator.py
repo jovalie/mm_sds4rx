@@ -1,3 +1,9 @@
+'''
+This script generates sentences given sentence templates, medication data, and a file containing natural language phrases that describe frequencies (e.g. "every day", "once a week").
+
+Modify global variables to correctly run script.
+'''
+
 import random
 import json
 

@@ -1,3 +1,9 @@
+'''
+This script generates entity mapping files given a JSON knowledge base and/or a list of ingredients + conditions.
+
+To generate intended entity files, modify global variables and main method.
+'''
+
 import json
 import rxnorm
 
@@ -101,7 +107,7 @@ def _collect_dosage_entities(db, key='dosage'):
     with open(key+M_FILE, 'w+') as f:
         json.dump(mapping, f)
 
-if __name__ == "__main__":
+def main():
     with open(RX_KB, 'r') as f:
         rx_kb = json.load(f)
 
@@ -109,5 +115,8 @@ if __name__ == "__main__":
         ing_db = json.load(f)
 
     #_collect_entities(rx_kb, "brand")
-    _collect_dosage_entities(rx_kb, "dosage")
+    # _collect_dosage_entities(rx_kb, "dosage")
     # _collect_condition_entires(ing_db)
+
+if __name__ == "__main__":
+    main()
