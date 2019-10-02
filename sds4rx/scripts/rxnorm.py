@@ -22,7 +22,7 @@ def _get_xml_tree(url, payload=None):
 
 	return tree
 
-def _string_to_rxcui(search_term):
+def string_to_rxcui(search_term):
 	"""
 	Returns list of RXCUIs that best match a string search term
 	"""
@@ -43,6 +43,7 @@ def _string_to_rxcui(search_term):
 
 	return results
 
+
 def search_string(search_term, log=False):
 	"""
 	RXNorm string query results to Python dict
@@ -53,7 +54,7 @@ def search_string(search_term, log=False):
 	Tag values:	https://rxnav.nlm.nih.gov/RxNormAPIs.html#uLink=RxNorm_REST_getPropNames
 
 	"""
-	rxcuis = _string_to_rxcui(search_term)
+	rxcuis = string_to_rxcui(search_term)
 	if rxcuis == []:
 		return {}
 
@@ -120,13 +121,14 @@ def parse_name(name):
 	}
 	for i in range(len(ingredients)):
 		item = ingredients[i].split()
-		dosage = item[-2:]
-		ing = item[:-2]
+		dosage = ' '.join(item[-2:])
+		ing = ' '.join(item[:-2])
+		rxcui = string_to_rxcui(ing)[0]
 
 		result['ingredients'].append({
-			'id': i,
+			'id': rxcui,
 			'name': ing, 
-			'dosage': ' '.join(dosage)
+			'dosage': dosage
 		})
 
 	return result
