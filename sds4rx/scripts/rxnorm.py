@@ -2,6 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as MD
 import pprint as pp	
+import time
 
 '''
 Documentation
@@ -31,10 +32,22 @@ def string_to_rxcui(search_term):
 	url_approximateTerm =  URL_ROOT + '/approximateTerm'
 	payload = {'term': search_term}
 
-	tree = _get_xml_tree(url_approximateTerm, payload)
-	# ET.dump(tree)
-	cands = tree.findall('./approximateGroup/candidate')
-
+	"""
+	FIXME: This try/except block was added to account for Connection 104 errors I recieved occasionally
+	while trying to access the RxNorm API. This function may result in an infinite loop in the case a ConnectionError
+	cannot be resolved.
+	"""
+	flag = True
+	while flag:
+		try:
+			tree = _get_xml_tree(url_approximateTerm, payload)
+			# ET.dump(tree)
+			cands = tree.findall('./approximateGroup/candidate')
+			flag = False
+		except ConnectionError as error:
+			#print(error)
+			time.sleep(5)
+		
 	if cands is not None:
 		for c in cands:
 			#ET.dump(c)
