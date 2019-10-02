@@ -1,0 +1,251 @@
+{
+    "kb_index_name": "medication",
+    "kb_field_name": "ingredient",
+    "entities": [
+        {
+            "whitelist": [],
+            "cname": "lisinopril",
+            "id": "29046"
+        },
+        {
+            "whitelist": [],
+            "cname": "levothyroxine",
+            "id": "10582"
+        },
+        {
+            "whitelist": [],
+            "cname": "atorvastatin",
+            "id": "83367"
+        },
+        {
+            "whitelist": [],
+            "cname": "metformin",
+            "id": "235743"
+        },
+        {
+            "whitelist": [],
+            "cname": "simvastatin",
+            "id": "36567"
+        },
+        {
+            "whitelist": [],
+            "cname": "omeprazole",
+            "id": "7646"
+        },
+        {
+            "whitelist": [],
+            "cname": "hydrochlorothiazide",
+            "id": "5487"
+        },
+        {
+            "whitelist": [],
+            "cname": "losartan",
+            "id": "52175"
+        },
+        {
+            "whitelist": [],
+            "cname": "gabapentin",
+            "id": "25480"
+        },
+        {
+            "whitelist": [],
+            "cname": "sertraline",
+            "id": "155137"
+        },
+        {
+            "whitelist": [],
+            "cname": "furosemide",
+            "id": "4603"
+        },
+        {
+            "whitelist": [],
+            "cname": "acetaminophen",
+            "id": "161"
+        },
+        {
+            "whitelist": [],
+            "cname": "citalopram",
+            "id": "2556"
+        },
+        {
+            "whitelist": [],
+            "cname": "trazodone",
+            "id": "82112"
+        },
+        {
+            "whitelist": [],
+            "cname": "alprazolam",
+            "id": "596"
+        },
+        {
+            "whitelist": [],
+            "cname": "fluticasone",
+            "id": "705022"
+        },
+        {
+            "whitelist": [],
+            "cname": "bupropion",
+            "id": "203204"
+        },
+        {
+            "whitelist": [],
+            "cname": "carvedilol",
+            "id": "20352"
+        },
+        {
+            "whitelist": [],
+            "cname": "escitalopram",
+            "id": "321988"
+        },
+        {
+            "whitelist": [],
+            "cname": "prednisone",
+            "id": "8640"
+        },
+        {
+            "whitelist": [],
+            "cname": "rosuvastatin",
+            "id": "301542"
+        },
+        {
+            "whitelist": [],
+            "cname": "ibuprofen",
+            "id": "5640"
+        },
+        {
+            "whitelist": [],
+            "cname": "meloxicam",
+            "id": "41493"
+        },
+        {
+            "whitelist": [],
+            "cname": "glipizide",
+            "id": "4821"
+        },
+        {
+            "whitelist": [],
+            "cname": "fluoxetine",
+            "id": "4493"
+        },
+        {
+            "whitelist": [],
+            "cname": "pantoprazole",
+            "id": "40790"
+        },
+        {
+            "whitelist": [],
+            "cname": "montelukast",
+            "id": "88249"
+        },
+        {
+            "whitelist": [],
+            "cname": "insulin glargine",
+            "id": "274783"
+        },
+        {
+            "whitelist": [],
+            "cname": "warfarin",
+            "id": "11289"
+        },
+        {
+            "whitelist": [],
+            "cname": "cyclobenzaprine",
+            "id": "52101"
+        },
+        {
+            "whitelist": [],
+            "cname": "insulin human",
+            "id": "253182"
+        },
+        {
+            "whitelist": [],
+            "cname": "tamsulosin",
+            "id": "236495"
+        },
+        {
+            "whitelist": [],
+            "cname": "metoprolol",
+            "id": "221124"
+        },
+        {
+            "whitelist": [],
+            "cname": "hydrocodone",
+            "id": "221107"
+        },
+        {
+            "whitelist": [],
+            "cname": "albuterol",
+            "id": "435"
+        },
+        {
+            "whitelist": [],
+            "cname": "atenolol",
+            "id": "1202"
+        },
+        {
+            "whitelist": [],
+            "cname": "pravastatin",
+            "id": "42463"
+        },
+        {
+            "whitelist": [],
+            "cname": "amoxicillin",
+            "id": "723"
+        },
+        {
+            "whitelist": [],
+            "cname": "potassium chloride",
+            "id": "8591"
+        },
+        {
+            "whitelist": [],
+            "cname": "tramadol",
+            "id": "82110"
+        },
+        {
+            "whitelist": [],
+            "cname": "clonazepam",
+            "id": "2598"
+        },
+        {
+            "whitelist": [],
+            "cname": "aspirin",
+            "id": "1191"
+        },
+        {
+            "whitelist": [],
+            "cname": "clopidogrel antiplatelet",
+            "id": "236991"
+        },
+        {
+            "whitelist": [],
+            "cname": "tamsulosin",
+            "id": "236495"
+        },
+        {
+            "whitelist": [],
+            "cname": "zolpidem",
+            "id": "39993"
+        },
+        {
+            "whitelist": [],
+            "cname": "ethinyl estradiol",
+            "id": "4124"
+        },
+        {
+            "whitelist": [],
+            "cname": "duloxetine",
+            "id": "476250"
+        },
+        {
+            "whitelist": [],
+            "cname": "ranitidine",
+            "id": "9143"
+        },
+        {
+            "whitelist": [],
+            "cname": "venlafaxine",
+            "id": "235988"
+        }
+    ]
+}
