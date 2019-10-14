@@ -1,12 +1,13 @@
-/_blueprints*
-/bin*
-/include*
-/lib*
-/log*
-/share*
-/_scratch_folder*
-*/.vscode*
+_blueprints
+bin
+include
+lib
+log
+share
+_scratch_folder
+.generated
 __pycache__
 
 *.code-workspace
 *.pyc
+*.vscode
